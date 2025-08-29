@@ -1,0 +1,1 @@
+web: gunicorn beyond_words.wsgi:application
