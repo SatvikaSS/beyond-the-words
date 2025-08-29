@@ -173,7 +173,7 @@ textstat==0.7.3
 tf_keras==2.19.0
 thinc==8.3.6
 threadpoolctl==3.6.0
-tifffile==2025.6.11
+tifffile==2024.12.12
 toml==0.10.2
 torch==2.8.0
 torchvision==0.23.0
