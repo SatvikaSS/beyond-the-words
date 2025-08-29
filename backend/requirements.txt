@@ -142,7 +142,7 @@ retina-face==0.0.17
 rich==14.0.0
 rpds-py==0.25.1
 scikit-image==0.25.2
-scikit-learn==1.7.1
+scikit-learn==1.5.0
 scipy==1.14.1
 seaborn==0.12.2
 sentencepiece==0.2.0
