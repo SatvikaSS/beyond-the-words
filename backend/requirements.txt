@@ -132,7 +132,6 @@ python-decouple==3.8
 python-slugify==8.0.4
 pyttsx3==2.99
 pytz==2025.2
-pywin32==306
 PyYAML==6.0.2
 pyzbar==0.1.9
 qrcode==8.2
