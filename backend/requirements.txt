@@ -122,7 +122,6 @@ PyJWT==2.10.1
 PyMySQL==1.1.1
 pyparsing==3.2.3
 pyphen==0.17.2
-pypiwin32==223
 pyriemann==0.7
 PySocks==1.7.1
 pytesseract==0.3.13
