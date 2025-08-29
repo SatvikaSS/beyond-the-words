@@ -91,7 +91,7 @@ namex==0.1.0
 narwhals==1.42.0
 networkx==3.4.2
 ninja==1.13.0
-nltk==3.8.1
+nltk==3.9
 numpy==1.26.4
 opencv-contrib-python==4.11.0.86
 opencv-python==4.11.0.86
